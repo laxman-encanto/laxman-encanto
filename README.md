@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laxman-encanto
 - 👀 I’m interested in coading
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning node JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
